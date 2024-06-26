@@ -29,3 +29,28 @@
 ### 🔴 Book Appointment
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075422.png)
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075448.png)
+
+ ### 🔴 Payment 
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075506.png)
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075557.png)
+ 
+ ### 🔴 Patient Profile
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075710.png)
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075722.png)
+
+ ### 🔴 VideoCall Featers
+ 
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075733.png)
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20075802.png)
+ 
+ ### 🔴 Register & Login Page
+ 
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080044.png)
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080110.png)
+ 
+ ### 🔴 Doctor Profile
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080146.png)
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080154.png)
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080226.png)
+ 
+ 
