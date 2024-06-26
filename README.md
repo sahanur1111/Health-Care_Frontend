@@ -2,6 +2,10 @@
 
 
  ## Project Screenshot
+ 
+ # 🔴🔴 ALL Routes 
+ ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Route.com.png)
+ 
  ### 🔴 Home Pages
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20074232.png)
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20074536.png)
@@ -53,7 +57,4 @@
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080146.png)
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080154.png)
  ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Screenshot%202024-06-26%20080226.png)
- 
- # 🔴🔴 ALL Routes 
- ![Health Care OverView](https://github.com/sahanur1111/Health-Care_Frontend/blob/main/screenshot/Route.com.png)
  
