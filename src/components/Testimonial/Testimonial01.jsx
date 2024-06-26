@@ -11,8 +11,8 @@ const Testimonial01 = () => {
               What our patients say
             </h2>
             <p className="text-base sm:text-lg lg:text-xl mt-4 text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-              alias autem rem exercitationem animi fugit.
+              "Exceptional care, compassionate staff, and life-changing outcomes.
+              Highly recommend our services."
             </p>
           </div>
 
