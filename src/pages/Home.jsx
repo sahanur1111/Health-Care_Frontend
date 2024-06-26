@@ -41,9 +41,9 @@ const Home = () => {
                   We help patients live a healthy, longer life.
                 </h1>
                 <p className="text-para mt-4 md:mt-6">
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Voluptas odit recusandae quidem sunt doloribus tempora
-                  expedita possimus sequi vel animi.
+                 The healthcare industry aims to enhance patient outcomes through advanced technologies,
+                  personalized treatments, preventive care, telemedicine, electronic health records, 
+                  and continuous research, ensuring accessible and quality healthcare services for everyone.
                 </p>
 
                 <Link to='/doctors'> 
