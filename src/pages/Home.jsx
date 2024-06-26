@@ -136,8 +136,8 @@ const Home = () => {
               Providing the best medical services
             </h2>
             <p className="text-base md:text-lg lg:text-xl mt-4">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-              doloremque consequatur quidem?
+              Providing the best medical services involves advanced diagnostics, 
+              skilled professionals, patient-centric care, and cutting-edge technology.
             </p>
           </div>
         </div>
@@ -154,8 +154,8 @@ const Home = () => {
                 Find a Doctor
               </h2>
               <p className="text-base leading-7 text-headingColor mt-4">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Tempora aspernatur accusamus quod error molestiae expedita?
+               Find a doctor for specialized medical care, trusted expertise,
+                and comprehensive health solutions.
               </p>
               <Link
                 to="/doctors"
@@ -176,8 +176,8 @@ const Home = () => {
                 Find a Location
               </h2>
               <p className="text-base leading-7 text-headingColor mt-4">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Tempora aspernatur accusamus quod error molestiae expedita?
+                Find a location for nearby clinics, hospitals, and healthcare facilities, 
+                ensuring convenient and accessible care.
               </p>
               <Link
                 to="/contact"
@@ -198,8 +198,7 @@ const Home = () => {
                 Book Appointment
               </h2>
               <p className="text-base leading-7 text-headingColor mt-4">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Tempora aspernatur accusamus quod error molestiae expedita?
+               To book an appointment, please visit our website or call our clinic directly.
               </p>
               <Link
                 to="/doctors"
@@ -221,8 +220,8 @@ const Home = () => {
               Our medical services
             </h2>
             <p className="text-base sm:text-lg lg:text-xl mt-4 text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-              alias autem rem exercitationem animi fugit.
+              Our medical services encompass comprehensive care, including diagnostics, treatments,
+              consultations, and personalized healthcare plans tailored to individual needs.
             </p>
           </div>
 
@@ -285,7 +284,7 @@ const Home = () => {
                 <div className="flex items-center gap-[6px] lg:gap[10px] mt-2 lg:mt-[18px]">
                   <img src={avatarIcon} alt="" />
                   <h4 className="text-[10px] leading-3 lg:text-[16px] lg:leading-[22px] font-[700]mtext-headingColor">
-                    Wayne Collins
+                    Sahanur Alam
                   </h4>
                 </div>
               </div>
@@ -302,8 +301,8 @@ const Home = () => {
               Our medical services
             </h2>
             <p className="text-base sm:text-lg lg:text-xl mt-4 text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-              alias autem rem exercitationem animi fugit.
+             Our medical services include a wide range of specialties, diagnostics, treatments, surgeries, 
+              and preventive care to ensure comprehensive healthcare for all patients.
             </p>
           </div>
           <DoctorList />
