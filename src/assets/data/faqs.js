@@ -7,21 +7,26 @@ export const faqs = [
   {
     question: "What happens if I need to go a hospital?",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "If you need to go to a hospital, you'll receive medical assessment, treatment, and care based on your condition.",
   },
   {
-    question: "What happens if I need to go a hospital?",
+    question: "What are the visiting hours? ",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "Visiting hours vary, typically posted online or at reception for current information.",
   },
   {
     question: "Can I visit your medical office?",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "Yes, you are welcome to visit our medical office during operating hours.",
   },
   {
     question: "Does you provide urgent care?",
     content:
-      "One Medical was founded on a better model of care one designed around patients needs that provides a higher level of quality and service affordably. We do this through innovative design, excellent customer service, and the efficient use of technology.",
+      "Yes, we provide urgent care services for immediate medical needs.",
+  },
+  {
+    question: "How do I reach the emergency department?",
+    content:
+      "To reach the emergency department, please dial emergency services or proceed directly to the nearest hospital.",
   },
 ];
