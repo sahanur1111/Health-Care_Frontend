@@ -26,7 +26,8 @@ const AIChatBot = () => {
     setLoading(true);
     try {
       const response = await axios({
-        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${Api_key}`,
+        // url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${Api_key}`,
+        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBiagWpZntWrBRvXUk4s2S9skExKdPxEBk`,
         method: "post",
         data: {
           contents: [{ parts: [{ text: messageText }] }],
